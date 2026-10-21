@@ -40,6 +40,6 @@ Nama tamu dapat diisi melalui URL, misalnya `https://putabintang8-coder.github.i
 
 Form ucapan saat ini menambah ucapan hanya di halaman yang sedang dibuka; belum menyimpan RSVP atau ucapan ke server dan belum membagikannya ke tamu lain. GitHub Pages menyajikan file statis. Untuk menyimpan respons bersama, perlu layanan formulir atau backend terpisah.
 
-Animasi, font, dan Tailwind masih dimuat dari CDN publik. Foto sudah berada di folder lokal repository. Versi ini belum diterbitkan ke GitHub; langkah Settings → Pages di atas perlu dilakukan di repository milik Anda.
+Animasi, font, dan Tailwind masih dimuat dari CDN publik. Foto sudah berada di folder lokal repository. Website: https://putabintang8-coder.github.io/undangan-/ — GitHub Pages memakai branch `main`, folder `/(root)`.
 
 Dokumentasi: https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site
